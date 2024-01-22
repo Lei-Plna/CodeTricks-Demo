@@ -1,0 +1,1 @@
+本Demo对checkbox的checked属性进行测试，能否通过非v-model的方式控制checkbox的选中状态
